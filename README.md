@@ -2,8 +2,11 @@
 
 
 1.) Clone this repository
+
 2.) Open terminal and cd to the root directory of this project.
+
 3) Run command "npm install".
+
 4.) After that run command "npm start"
 
 ## About
