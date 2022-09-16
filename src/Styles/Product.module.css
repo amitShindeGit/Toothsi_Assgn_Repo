@@ -1,0 +1,73 @@
+.subHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F8F8F8;
+    margin: .5rem 1.5rem;
+    padding: 0 1rem;
+}
+
+.leftSideDiv{
+    display: flex;
+    align-items: center;
+}
+
+.imageText{
+    margin-right: 5rem;
+    width: 4rem;
+    height: 4rem;
+    padding: 1rem;
+}
+
+.nameText{
+    margin-left: -2rem;
+    text-decoration: underline;
+    color: #19ABCF;
+    cursor: pointer;
+}
+
+.midSideDiv{
+    display: flex;
+    align-items: center;
+    /* gap: 2rem; */
+}
+
+.colorDiv{
+    margin-left: 12rem;
+}
+
+
+.stockDiv{
+    display: flex;
+    margin-left: 7rem;
+    margin-right: -4rem;
+    align-items: center;
+}
+
+
+.priceDiv{
+    margin-left: 12rem;
+    margin-right: -2rem;
+}
+
+.rightSideDiv{
+    display: flex;
+    align-items: center;
+}
+
+.cartInput{
+    width: 3rem;
+    height: 1.3rem;
+    background-color: #F2F2F2;
+    border: none;
+    padding-left: .8rem;
+    border: 1px solid #E8E8E8;
+
+}
+
+.cartIcon{
+    background-color: #333333;
+    color: white;
+    padding: .1rem 1.2rem;
+    margin-left: .5rem;
+}

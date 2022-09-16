@@ -1,0 +1,29 @@
+.subHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F8F8F8;
+    margin: .5rem 1.5rem;
+    border-bottom: 2px solid black;
+    padding: 0 1rem;
+}
+
+.leftSideDiv{
+    display: flex;
+}
+
+.imageText{
+    margin-right: 5rem;
+}
+
+.midSideDiv{
+    display: flex;
+    align-items: center;
+    /* gap: 2rem; */
+}
+
+.arrowDiv{
+    display: flex;
+    flex-direction: column;
+    margin-left: 6rem;
+}

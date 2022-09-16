@@ -1,0 +1,52 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: .5rem 2rem;
+}
+
+.leftSide{
+    display: flex;
+}
+
+.resetDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* max-width: min-content; */
+}
+
+.headerResetBtn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: #00A0C6;
+}
+
+.rightSide{
+    display: flex;
+    
+}
+
+.searchDiv{
+    display: flex;
+    align-items: center;
+    padding: .4rem;
+}
+
+.searchInput{
+    padding: .5rem .3rem;
+    max-width: 10rem;
+    margin-left: .5rem;
+    border: 1px solid #E8E8E8;
+    background-color: #F2F2F2;
+}
+
+.cartBtn{
+    height: 2.5rem;
+    margin-top: .5rem;
+    padding: 0 1.3rem;
+    background-color: #00A0C6;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

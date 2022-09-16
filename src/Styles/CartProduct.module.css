@@ -1,0 +1,19 @@
+.cartProductMainDiv{
+    display: flex;
+    justify-content: space-between;
+    max-width: 47%;
+    margin-left: 4.3rem;
+    border-bottom: 1px solid black;
+    padding: 2rem 0;
+}
+
+.cartProdImg{
+    width: 2rem;
+    height: 2rem;
+    object-fit: cover;
+}
+
+.carValDIv{
+    display: flex;
+    column-gap: .4rem;
+}
